@@ -146,9 +146,9 @@ $echo $JAVA_HOME
 ```
 
 ### Clone the project:
-* Clone in your Workspace & change the current working directory to the local project (qabackend)
+* Clone in your Workspace & change the current working directory to the local project
 ```bash
-git clone git@github.com:tajawal/qaBackend.git && cd qaBackend
+git clone https://github.com/priyanka-agr/apiAutomation.git
 ```
 * Initialize the local directory as a Git repository.
 ```bash
@@ -156,11 +156,11 @@ git init
 ```
 * Add URL for the remote repository where your local repository will be pushed
 ```bash
-git remote add origin git@github.com:tajawal/qaBackend.git
+git remote add origin https://github.com/priyanka-agr/apiAutomation.git
 ```
 * Open IntelliJ, select "Import Project"
 
-* Select the "qaBackend "project folder from your local machine
+* Select the "apiAutomation "project folder from your local machine
 
 * In the next page, select "Import project from external model", and select "Maven"
 
