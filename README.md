@@ -1,4 +1,4 @@
-# Backend APIs - Gray Box Testing
+# Backend APIs
 #### MAVEN Project
 
 ## What's inside:
