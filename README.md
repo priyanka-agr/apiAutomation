@@ -32,7 +32,7 @@
 <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-chrome-driver</artifactId>
-            <version>x.xx</version>
+            <version>x.xx1</version>
             <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
         </dependency>
 ```    
