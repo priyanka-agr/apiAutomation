@@ -1,4 +1,4 @@
-# TJW && ALM backEnd APIs - Gray Box Testing
+# Backend APIs - Gray Box Testing
 #### MAVEN Project
 
 ## What's inside:
